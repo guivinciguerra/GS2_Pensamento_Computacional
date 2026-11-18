@@ -1,0 +1,9 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-16T16:35:14-03:00,pergunta,esqueci minha senha do gov,2,True,True,1,35.1
+2026-11-16T16:35:44-03:00,pergunta,Perdi minha senha do gov,,False,False,1,26.4
+2026-11-16T16:36:21-03:00,pergunta,recuoerar senha,,False,False,2,36.5
+2026-11-16T16:49:32-03:00,pergunta,recuperar senha,2,True,True,1,789.4
+2026-11-16T16:49:41-03:00,pergunta,recuperar senha,2,True,True,1,7.7
+2026-11-16T16:51:46-03:00,pergunta,recuperar a senha,2,True,True,1,9.4
+2026-11-17T09:22:14-03:00,pergunta,Ativar verificação em duas etapas do gov.br,4,True,True,1,7.4
+2026-11-17T11:04:17-03:00,pergunta,esqueci minha senha do gov,2,True,True,1,6121.3

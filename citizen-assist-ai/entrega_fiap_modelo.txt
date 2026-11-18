@@ -1,0 +1,5 @@
+Nome do assistente: Citizen Assist AI
+Público atendido: Jovens em início de vida adulta que usam serviços públicos digitais
+Integrantes e RM: [PREENCHER NOMES E RMs]
+Link do repositório GitHub: [PREENCHER URL PUBLICA]
+Link do vídeo técnico no YouTube: [PREENCHER URL NAO LISTADA]

@@ -1,0 +1,82 @@
+[
+  {
+    "data": "2026-11-16T16:35:14-03:00",
+    "origem": "pergunta",
+    "pergunta": "esqueci minha senha do gov",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 35.1
+  },
+  {
+    "data": "2026-11-16T16:35:44-03:00",
+    "origem": "pergunta",
+    "pergunta": "Perdi minha senha do gov",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 26.4
+  },
+  {
+    "data": "2026-11-16T16:36:21-03:00",
+    "origem": "pergunta",
+    "pergunta": "recuoerar senha",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 2,
+    "tempo_segundos": 36.5
+  },
+  {
+    "data": "2026-11-16T16:49:32-03:00",
+    "origem": "pergunta",
+    "pergunta": "recuperar senha",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 789.4
+  },
+  {
+    "data": "2026-11-16T16:49:41-03:00",
+    "origem": "pergunta",
+    "pergunta": "recuperar senha",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.7
+  },
+  {
+    "data": "2026-11-16T16:51:46-03:00",
+    "origem": "pergunta",
+    "pergunta": "recuperar a senha",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 9.4
+  },
+  {
+    "data": "2026-11-17T09:22:14-03:00",
+    "origem": "pergunta",
+    "pergunta": "Ativar verificação em duas etapas do gov.br",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.4
+  },
+  {
+    "data": "2026-11-17T11:04:17-03:00",
+    "origem": "pergunta",
+    "pergunta": "esqueci minha senha do gov",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 6121.3
+  }
+]
