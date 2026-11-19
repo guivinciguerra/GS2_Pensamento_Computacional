@@ -1,15 +1,10 @@
 # Citizen Assist AI — orientação ao cidadão
 
-Projeto de **Pensamento Computacional e Automação com Python**, Global Solution 2026.2 (FIAP).
-
-> **Atenção:** projeto educacional. Este assistente **NÃO é um canal oficial** e não substitui a orientação dos órgãos públicos.
-
 ## Equipe
 
-- Integrante 1: **[NOME COMPLETO]**, RM **[RM]**
-- Integrante 2: **[NOME COMPLETO OU REMOVER]**, RM **[RM]**
-- Integrante 3: **[NOME COMPLETO OU REMOVER]**, RM **[RM]**
-
+- Integrante 1: Guilherme Vinciguerra Carvalho, RM: 571951
+- Integrante 2: Marcos Peterson RM: 571951
+- 
 ## Público, problema e objetivo
 
 **Público escolhido:** jovens em início de vida adulta e do mercado de trabalho que precisam usar serviços públicos digitais.
@@ -98,28 +93,3 @@ O CSV é exportado por `csv.DictWriter` para `data/atendimentos.csv`. Métricas:
 
 Cada orientação traz URL e `verificado_em` no JSON. Fontes principais: [criação de conta gov.br](https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br), [recuperação de senha](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/), [níveis da conta](https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr), [segurança da conta](https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta), [Carteira de Trabalho Digital](https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho), [SINE](https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine), [seguro-desemprego](https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego), [inscrição no CPF](https://www.gov.br/pt-br/servicos/inscrever-no-cpf), [Meu CPF](https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf/cpf), [Título Net](https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral) e [e-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo/aplicativo-e-titulo).
 
-## Testes com usuários reais — A PREENCHER PELA EQUIPE
-
-**Obrigatório:** testar com **no mínimo 3 pessoas externas** à equipe, totalizando **10 atendimentos ou mais**, antes do vídeo. Não inserir nomes ou dados pessoais.
-
-- Número de participantes: **[PREENCHER]**
-- Total de atendimentos reais: **[PREENCHER]**
-- Respostas encontradas (%): **[PREENCHER]**
-- Taxa de orientações que ajudaram (%): **[PREENCHER]**
-- Tempo médio (s): **[PREENCHER]**
-- Tentativas por atendimento: **[PREENCHER]**
-- Facilidade média (1–5): **[PREENCHER]**
-- Dúvidas sem solução: **[PREENCHER]**
-- Uma melhoria real aplicada após o teste (ex.: palavra-chave nova): **[PREENCHER E EXPLICAR]**
-
-O arquivo `testes_usuarios_modelo.md` ajuda a documentar o teste sem dados identificáveis. Os testes automatizados **não contam** como testes com pessoas reais.
-
-## Vídeo técnico (obrigatório)
-
-Gravar **5 a 8 minutos**, com **todos os integrantes falando**, código legível e execução real, postar no **YouTube não listado**. Não usar voz sintética/narração por IA. O roteiro detalhado está em `roteiro_video.md`.
-
-**Link do vídeo:** [INSERIR LINK]
-
-## Entrega
-
-Criar repositório **público** no GitHub (sem divulgar dados privados). Disponibilizar README, código e base. Entregar **somente 1 `.txt` no portal FIAP até 19/11 às 23h59** com nome do assistente, público, nomes e RM, link do GitHub e link do vídeo. Modelo em `entrega_fiap_modelo.txt`.
