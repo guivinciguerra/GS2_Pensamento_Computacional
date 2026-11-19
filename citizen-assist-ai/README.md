@@ -3,8 +3,8 @@
 ## Equipe
 
 - Integrante 1: Guilherme Vinciguerra Carvalho, RM: 571951
-- Integrante 2: Marcos Peterson RM: 571951
-- 
+- Integrante 2: Marcos Peterson RM: 573857
+  
 ## Público, problema e objetivo
 
 **Público escolhido:** jovens em início de vida adulta e do mercado de trabalho que precisam usar serviços públicos digitais.
